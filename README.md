@@ -28,13 +28,13 @@ Resize File Online adalah aplikasi web berbasis PHP yang memungkinkan pengguna m
 1. **Clone repo:**
 
    ```bash
-   git clone https://github.com/username/reponame.git
+   git clone https://github.com/wahyuardiansyah6677/ResizeTools
    ```
 
 2. **Pindah ke folder proyek:**
 
    ```bash
-   cd reponame
+   cd ResizeTools
    ```
 
 3. Pastikan server mendukung PHP dan ekstensi `GD` aktif.
